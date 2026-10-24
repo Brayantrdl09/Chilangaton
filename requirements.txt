@@ -1,0 +1,31 @@
+
+# Analisis de datos
+pandas
+numpy
+scipy
+
+# Notebooks
+jupyter
+ipykernel
+
+# Visualizacion
+matplotlib
+seaborn
+plotly
+
+# Archivos
+openpyxl
+pyarrow
+requests
+
+# Datos geograficos
+geopandas
+folium
+
+# Aplicacion web
+streamlit
+streamlit-folium
+
+# Modelos estadisticos y machine learning
+scikit-learn
+  
