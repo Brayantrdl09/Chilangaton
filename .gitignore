@@ -29,8 +29,11 @@ Thumbs.db
 *.tmp
 
 # Datos originales y procesados
-datos/originales/*
-datos/procesados/*
+# No subir bases originales
+/Datos/originales/
+
+# Permitir bases procesadas
+!/Datos/procesados/
 
 # Mantener la estructura de carpetas
 !datos/originales/.gitkeep
